@@ -295,5 +295,13 @@
     "options": ["Monte Aso", "Monte Kita", "Monte Fuji", "Monte Yari"],
     "correctAnswer": "Monte Fuji",
     "explanation": "O Monte Fuji é a montanha mais alta do Japão, com 3.776 metros de altitude."
+  },
+
+  {
+    "id": 22,
+    "question": "Como se chamava a cidade de Tóquio antes de 1868?",
+    "options": ["Kyoto", "Edo", "Osaka", "Nara"],
+    "correctAnswer": "Edo",
+    "explanation": "A cidade era conhecida como Edo até a Restauração Meiji."
   }
 ]
