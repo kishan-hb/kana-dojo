@@ -486,9 +486,23 @@
   "meaning": "Relationships and compassion matter"
 },
   {
+
   "japanese": "善は急げ",
   "romaji": "Zen wa isoge",
   "english": "Hurry to do good",
-  "meaning": "Do worthwhile things promptly"
+  "meaning": "Do worthwhile things promptl
+  },
+  {
+  "japanese": "失敗は成功のもと",
+  "romaji": "Shippai wa seikou no moto",
+  "english": "Failure is the origin of success",
+  "meaning": "Mistakes lead to growth"
+},
+{
+  "japanese": "急がば回れ",
+  "romaji": "Isogaba maware",
+  "english": "If in a hurry, go around",
+  "meaning": "The safer path can be faster"
 }
+
 ]
